@@ -1,7 +1,7 @@
 phonegap3.x.x-plugins-ExtractZipFile
 ====================================
 
-ExtractZipFile modified plugin for phonegap 3.x.x
+ExtractZipFile modified plugin for phonegap 3
 
 All credits goes to:
 --------------------
