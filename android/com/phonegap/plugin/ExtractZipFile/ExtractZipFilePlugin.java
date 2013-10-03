@@ -1,10 +1,3 @@
-/*
-Author: Vishal Rajpal
-Filename: ExtractZipFilePlugin.java
-Created Date: 21-02-2012
-Modified Date: 04-04-2012
-*/
-
 /**
  * modified
  * Unzip files package
