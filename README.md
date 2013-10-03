@@ -4,6 +4,7 @@ phonegap3.x.x-plugins-ExtractZipFile
 ExtractZipFile modified plugin for phonegap 3.x.x
 
 All credits goes to:
+--------------------
 https://github.com/phonegap/phonegap-plugins
 
 
