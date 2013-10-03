@@ -32,4 +32,4 @@ quick javascript example:
 		
       // error
 			
-		}, "ZipPlugin", "extract", [dest, foldername]);
+		}, "ZipPlugin", "extract", [ZipFileWithPath, destination]);
