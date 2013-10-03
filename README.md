@@ -8,12 +8,14 @@ https://github.com/phonegap/phonegap-plugins
 
 
 What I have changed:
+
 -> extract method declaration
 
 -> run in own thread
 
 
 be sure to check out the description of the original plugin:
+
 https://github.com/phonegap/phonegap-plugins/tree/master/iOS/ExtractZipFile
 
 https://github.com/phonegap/phonegap-plugins/tree/master/Android/ExtractZipFile
